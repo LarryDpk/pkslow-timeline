@@ -6,11 +6,16 @@ The app can show the balance of today, the battery and your life. You can custom
 Available on App Store: https://apps.apple.com/app/pkslow-timeline/id1628613820
 
 
-<img src="images/v1.0.0/iPhone8Plus.01.png" style="zoom:20%;" />
-<img src="images/v1.0.0/iPhone8Plus.02.png" style="zoom:20%;" />
-<img src="images/v1.0.0/iPhone8Plus.03.png" style="zoom:20%;" />
-<img src="images/v1.0.0/iPhone8Plus.04.png" style="zoom:20%;" />
-
+<table>
+<tr>
+    <td><img src="images/v1.0.0/iPhone8Plus.01.png" style="zoom:20%;" /></td>
+    <td><img src="images/v1.0.0/iPhone8Plus.02.png" style="zoom:20%;" /></td>
+</tr>
+<tr>
+    <td><img src="images/v1.0.0/iPhone8Plus.03.png" style="zoom:20%;" /></td>
+    <td><img src="images/v1.0.0/iPhone8Plus.04.png" style="zoom:20%;" /></td>
+</tr>
+</table>
 
 
 # 南瓜时线
@@ -20,9 +25,14 @@ Available on App Store: https://apps.apple.com/app/pkslow-timeline/id1628613820
 
 可以在App Store中下载：https://apps.apple.com/app/pkslow-timeline/id1628613820
 
-<img src="images/v1.0.0/iPhone8PlusCN.01.png" style="zoom:20%;" />
-<img src="images/v1.0.0/iPhone8PlusCN.02.png" style="zoom:20%;" />
-<img src="images/v1.0.0/iPhone8PlusCN.03.png" style="zoom:20%;" />
-<img src="images/v1.0.0/iPhone8PlusCN.04.png" style="zoom:20%;" />
-
+<table>
+<tr>
+    <td><img src="images/v1.0.0/iPhone8PlusCN.01.png" style="zoom:20%;" /></td>
+    <td><img src="images/v1.0.0/iPhone8PlusCN.02.png" style="zoom:20%;" /></td>
+</tr>
+<tr>
+    <td><img src="images/v1.0.0/iPhone8PlusCN.03.png" style="zoom:20%;" /></td>
+    <td><img src="images/v1.0.0/iPhone8PlusCN.04.png" style="zoom:20%;" /></td>
+</tr>
+</table>
 
