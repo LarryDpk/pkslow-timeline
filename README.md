@@ -30,6 +30,8 @@ Available on App Store: https://apps.apple.com/app/pkslow-timeline/id1628613820
 </tr>
 </table>
 
+Version history please check: [Releases](https://github.com/LarryDpk/pkslow-timeline/releases)
+
 # 南瓜时线
 南瓜时线发布啦！！！
 
@@ -61,3 +63,5 @@ Available on App Store: https://apps.apple.com/app/pkslow-timeline/id1628613820
     <td><img src="images/v1.1.0/iPhone8PlusCN.06.png" style="zoom:20%;" /></td>
 </tr>
 </table>
+
+版本记录请查看： [Releases](https://github.com/LarryDpk/pkslow-timeline/releases)
