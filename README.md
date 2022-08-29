@@ -12,7 +12,9 @@ Key Features:
   - Support Once, Anniversary, Birthday and Monthly;
   - Notify on the event day;
 - Processing Bar: Show the processing bar according to the start date and end date;
-- Multiple themes.
+- Multiple themes;
+- Date Calculate Tools;
+- Random number generator.
 
 Available on App Store: https://apps.apple.com/app/pkslow-timeline/id1628613820
 
@@ -46,7 +48,9 @@ Version history please check: [Releases](https://github.com/LarryDpk/pkslow-time
   - 倒数提醒功能：当天事件会提醒；
   - 支持农历；
 - 进度条定制：根据开始日期和结束日期，显示进度条；
-- 提供多条主题样式。
+- 提供多条主题样式；
+- 日期计算工具：可以计算两个日期间隔，和多少天之前之后的日期；
+- 随机数生成工具。
 
 
 可以在App Store中下载：https://apps.apple.com/app/pkslow-timeline/id1628613820
